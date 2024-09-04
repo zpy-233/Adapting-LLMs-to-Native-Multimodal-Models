@@ -7,6 +7,7 @@ To adapt an existing open-source Transformer-based text large language model (LL
 ## Project Principle
 
 The traditional large model principle is illustrated in the following diagram:
+
 ![Image](https://github.com/user-attachments/assets/9e32a203-698a-4532-9d89-44f9d54bf2fe)
 
 We can add audio encoder and decoder modules to the open-source LLM and retrain it to achieve native multimodal capabilities. The principle is illustrated in the following diagrams:
